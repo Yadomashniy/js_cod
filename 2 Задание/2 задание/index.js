@@ -5,3 +5,4 @@ let ara = 'Привет'
 let  str = true
 alert(str)
 
+let sds= true
