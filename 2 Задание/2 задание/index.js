@@ -1,8 +1,11 @@
-let age = 25
+let number = 10
+let string = "Hello"
+let boolean = true
 
-let ara = 'Привет'
+number = "Good morning"
+string = 20
+boolean = null
 
-let  str = true
-alert(str)
-
-let sds= true
+alert(number);
+alert(string);
+alert(boolean);
